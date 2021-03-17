@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @neonotfrommatrix
-- 👀 I’m interested in rollerskating and programming
+- 👋 Hi, I’m @neonotfrommatrix (Initials are Neo, my favorite movie is the Matrix)
 - 🌱 I’m currently learning Java and Web Design!
 - 💞️ I’m looking to collaborate on any app ideas
 - 📫 Email: ✨ottolianatalie@gmail.com✨
